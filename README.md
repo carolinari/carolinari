@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, meu nome é Carolina!</h1>
 
-- 🔭 Estudante de mestrado em Engenharia de Teleinformática, na Universidade Federal do Ceará (UFC)
+- 🔭 Mestrado em Engenharia de Teleinformática, na Universidade Federal do Ceará (UFC).
 - 🌱 Estudando Data Science, HTML, CSS, JavaScript e React.
 - 💡 Experiência: Machine learning, processamento digital de imagens e análise de dados.
-- 😄 Pronomes: Ela/Dela
+- 😄 Pronomes: Ela/Dela.
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
