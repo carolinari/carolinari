@@ -2,7 +2,7 @@
 
 - 🔭 Mestrado em Engenharia de Teleinformática, na Universidade Federal do Ceará (UFC).
 - 🌱 Estudando Data Science, HTML, CSS, JavaScript e React.
-- 💡 Experiência: Machine learning, processamento digital de imagens e análise de dados.
+- 💡 Experiência: Python, machine learning, processamento digital de imagens e análise de dados.
 - 😄 Pronomes: Ela/Dela.
 
 <h3 align="left">Conecte-se comigo:</h3>
