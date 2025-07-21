@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Carolina Alves Ribeiro!</h1>
 <h3 align="center">Data Science | Análise de Dados | Desenvolvedora | Python | Ruby on Rails | Power BI</h3>
 
-- 🔭 Cursando MBA em Data Science e Analytics pela Universidade de São Paulo (USP)
+- 🔭 Cursando MBA em Data Science e Analytics pela Universidade de São Paulo (USP).
 - 🎓 Mestrado em Engenharia de Computação pela Universidade Federal do Ceará (UFC).
 - 🎓 Graduação em Física pela Universidade Federal do Ceará (UFC).
 - 💻 Analista de Sistemas com experiência prática em projetos de ciência de dados, análise de dados, inteligência de negócios e desenvolvimento de sistemas.
